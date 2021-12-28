@@ -1,4 +1,2 @@
-# ksrikanth.github.io
-Srikanth's Home page.
-
+# Srikanth's Home page.
 Updating sudoers
