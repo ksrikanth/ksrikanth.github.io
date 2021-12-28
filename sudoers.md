@@ -1,4 +1,4 @@
-To enable aspecific user(user1 in my case) to execute all programs without password add the following line to the end of thd of /etc/sudoers
+To enable a specific user(user1 in my case) to execute all programs without password add the following line to the end of thd of /etc/sudoers
 ````
 user1	ALL=(ALL:ALL) NOPASSWD:ALL
 ````
